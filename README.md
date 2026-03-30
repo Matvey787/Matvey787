@@ -4,7 +4,7 @@
   <p>Student at MIPT (FRKT, Informatics and Computer Science), 2 course 
 </div>
 
-### 🛠 Technology Stack
+# 🛠 Technology Stack
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/147947f6-c247-476e-8c4a-caaffd2c0044" width="100">
@@ -24,3 +24,8 @@
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3fb2cdf6-8920-462e-87a4-95af376418aa" width="100">
   <img src="https://github.com/user-attachments/assets/2b3cc2b9-3ce9-406e-9c69-5db60406b9b0" width="100">
 </div>
+
+# Statistics
+![Matvey787's GitHub stats](https://github-readme-stats.vercel.app/api?username=Matvey787&theme=cobalt&show_icons=true)
+
+[![Matvey787's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Matvey787)](https://github.com/anuraghazra/github-readme-stats)
