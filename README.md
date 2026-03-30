@@ -26,6 +26,7 @@
 </div>
 
 # Statistics
-![Matvey787's GitHub stats](https://github-readme-stats.vercel.app/api?username=Matvey787&theme=cobalt&show_icons=true)
-
-[![Matvey787's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Matvey787)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Matvey787&theme=cobalt" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Matvey787&theme=cobalt" />
+</div>
