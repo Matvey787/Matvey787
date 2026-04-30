@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/238200838-76036311-c8ea-4247-8bf8-a7077623036c.gif" width="120">
   <h1>Hi there, I'm Matvey 👋</h1>
   <p>Student at MIPT (FRKT, Informatics and Computer Science), 2 course 
 </div>
